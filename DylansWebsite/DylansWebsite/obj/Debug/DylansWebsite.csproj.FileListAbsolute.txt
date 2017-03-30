@@ -94,3 +94,35 @@ D:\Coding Programs\Visual Studio 2015\Projects\DylansWebsite\DylansWebsite\bin\M
 D:\Coding Programs\Visual Studio 2015\Projects\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.csprojResolveAssemblyReference.cache
 D:\Coding Programs\Visual Studio 2015\Projects\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.dll
 D:\Coding Programs\Visual Studio 2015\Projects\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.pdb
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\csc.exe
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\vbc.exe
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\VBCSCompiler.exe
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\DylansWebsite.dll.config
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\DylansWebsite.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\DylansWebsite.pdb
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.DependencyCollector.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.Web.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.WindowsServer.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.ApplicationInsights.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.DependencyCollector.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.Web.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.AI.WindowsServer.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.ApplicationInsights.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.csprojResolveAssemblyReference.cache
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.dll
+D:\Coding Programs\GitHub\aboutme\DylansWebsite\DylansWebsite\obj\Debug\DylansWebsite.pdb
