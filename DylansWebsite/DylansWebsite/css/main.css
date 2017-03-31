@@ -33,11 +33,21 @@ header{
     margin: 0 0 30px 0;
     padding: 5px 0 0 0;
     width: 100%;
+    
+}
+
+.headerpic{
+    background: url('../img/Haleakala.jpg');
+    background-size: cover;
+    background-position: center 40%;
+    
 }
 
 #logo{
     text-align: center;
     margin: 0;
+    text-shadow: 5px 5px 15px #222;
+    
 }
 
 h1 {
@@ -117,6 +127,7 @@ footer{
     margin: 2.5%;
     background-color: #f8e8e8;
     color: red;
+    box-shadow: 5px 5px 10px #444;
 }
 
 #gallery li p{
@@ -124,6 +135,7 @@ footer{
     padding: 5%;
     font-size: 0.75em;
     color: firebrick;
+    
 }
 
 
@@ -179,10 +191,11 @@ body {
     color: #999; 
 }
 
-/* green header */
+/* red header */
 header {
     background: firebrick;
-    border-color: #599a68;   
+    border-color: #599a68;
+    background-image: linear-gradient(firebrick, black);  
 }
 
 /* logo text */
@@ -193,6 +206,7 @@ h1, h2 {
 /* nav background on mobile */
 nav {
     background: #f8e8e8;
+    
 }
 
 /* links */
