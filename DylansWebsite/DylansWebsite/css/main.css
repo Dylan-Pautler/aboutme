@@ -119,6 +119,7 @@ footer{
     margin: 0;
     padding: 0;
     list-style: none;
+    
 }
 
 #gallery li{
@@ -127,6 +128,7 @@ footer{
     margin: 2.5%;
     background-color: #f8e8e8;
     color: red;
+    border-radius: 5% 10%;
     box-shadow: 5px 5px 10px #444;
 }
 
@@ -138,7 +140,9 @@ footer{
     
 }
 
-
+img{
+    border-radius: 5% 10%;
+}
 
 /*************************
     PAGE: ABOUT
@@ -148,7 +152,8 @@ footer{
     display: block;
     max-width: 150px;
     margin: 0 auto 30px;
-    border-radius: 100%;
+    border-radius: 5% 15%;
+    box-shadow: 5px 5px 10px #444;
 }
 
 
