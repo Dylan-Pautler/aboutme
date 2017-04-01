@@ -57,6 +57,12 @@
         text-align: right;
         width: 45%;
     }
+    
+    nav li{
+        background-image: linear-gradient(to bottom right, firebrick, transparent 50%);
+        border-radius: 10px;
+        padding: 8px 5px;
+    }
 
     #logo{
         float: left;

@@ -208,12 +208,6 @@ h1, h2 {
     color: #ffffff;
 }
 
-/* nav background on mobile */
-nav {
-    background: #f8e8e8;
-    
-}
-
 /* links */
 a {
     color: firebrick;
@@ -222,11 +216,19 @@ a {
 /* nav links */
 nav a, nav a:visited {
     color: #fff;
+    
+    
+    
+}
+
+/* nav background on mobile */
+nav {
+    background: #800000;    
 }
 
 /* selected nav link*/
 nav a.selected, nav a:hover {
-    color: #660000;
+    color: tan;
 }
 
 
