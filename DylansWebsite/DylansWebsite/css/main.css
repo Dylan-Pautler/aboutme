@@ -156,7 +156,11 @@ img{
     box-shadow: 5px 5px 10px #444;
 }
 
-
+#quote p{
+    font-family: 'Script MT';
+    font-size: 1.5em;
+    font-weight: 400;
+}
 
 /*************************
     PAGE: CONTACT
