@@ -103,10 +103,12 @@
     <Content Include="img\facebook-wrap.png" />
     <Content Include="img\facebook.png" />
     <Content Include="img\FWIC.jpg" />
+    <Content Include="img\game.html" />
     <Content Include="img\greylinkedin.png" />
     <Content Include="img\Haleakala.jpg" />
     <Content Include="img\hawaii.jpg" />
     <Content Include="img\lacrosse.jpg" />
+    <Content Include="img\me.jpg" />
     <Content Include="img\sqdldr.jpg" />
     <Content Include="img\linkedin.jpg" />
     <Content Include="img\mail.png" />
